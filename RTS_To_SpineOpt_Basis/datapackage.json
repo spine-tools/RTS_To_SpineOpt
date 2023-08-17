@@ -1,0 +1,37 @@
+{
+    "profile": "data-package",
+    "resources": [
+        {
+            "path": "csv_data\\branch.csv",
+            "profile": "data-resource"
+        },
+        {
+            "path": "csv_data\\bus.csv",
+            "profile": "data-resource"
+        },
+        {
+            "path": "csv_data\\dc_branch.csv",
+            "profile": "data-resource"
+        },
+        {
+            "path": "csv_data\\gen.csv",
+            "profile": "data-resource"
+        },
+        {
+            "path": "csv_data\\reserves.csv",
+            "profile": "data-resource"
+        },
+        {
+            "path": "csv_data\\simulation_objects.csv",
+            "profile": "data-resource"
+        },
+        {
+            "path": "csv_data\\storage.csv",
+            "profile": "data-resource"
+        },
+        {
+            "path": "csv_data\\timeseries_pointers.csv",
+            "profile": "data-resource"
+        }
+    ]
+}
